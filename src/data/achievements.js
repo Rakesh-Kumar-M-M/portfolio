@@ -1,0 +1,42 @@
+export const achievements = [
+    {
+        id: 1,
+        title: "NPTEL Certification",
+        issuer: "NPTEL (IIT)",
+        description: "Successfully completed NPTEL course certification from IIT, demonstrating expertise in core computer science concepts.",
+        icon: "🏅",
+        color: "#00d4ff",
+    },
+    {
+        id: 2,
+        title: "Cisco Certification",
+        issuer: "Cisco Networking Academy",
+        description: "Earned certification from Cisco Networking Academy, validating networking and cybersecurity fundamentals.",
+        icon: "🌐",
+        color: "#7b2ff7",
+    },
+    {
+        id: 3,
+        title: "Udemy Certification",
+        issuer: "Udemy",
+        description: "Completed comprehensive web development and programming courses on Udemy platform.",
+        icon: "📜",
+        color: "#ff2d95",
+    },
+    {
+        id: 4,
+        title: "IIT Bombay Spoken Tutorial",
+        issuer: "IIT Bombay",
+        description: "Completed Spoken Tutorial certification from IIT Bombay in programming and software tools.",
+        icon: "🎓",
+        color: "#00d4ff",
+    },
+    {
+        id: 5,
+        title: "Learnathon Achievement",
+        issuer: "Learnathon",
+        description: "Recognized for outstanding participation and achievement in the Learnathon program.",
+        icon: "🏆",
+        color: "#7b2ff7",
+    },
+];
