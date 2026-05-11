@@ -76,7 +76,7 @@ export default function Home() {
                         <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }}
                             transition={{ duration: 0.6, delay: 0.4 }} className="flex flex-wrap gap-4">
                             <Link to="/projects" className="btn-primary">View Projects <FaArrowRight size={14} /></Link>
-                            <a href="/rakesh_resume.pdf" download className="btn-secondary"><FaDownload size={14} /> Download Resume</a>
+                            <a href="/rakesh_resume_JPMC.pdf" download className="btn-secondary"><FaDownload size={14} /> Download Resume</a>
                         </motion.div>
                     </div>
                 </div>
